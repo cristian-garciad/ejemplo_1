@@ -1,0 +1,38 @@
+CAN(controller area network)
+
+
+http://api.ning.com/files/MXZLZ1wc*WJrOi9Hb2Qbgl6M75c6Ftff39vufF8*Oo-21INeBl51XhYb*7kA0EyeXAVrET5HCl3Of6ZIbw9P1xLw55R76nsa/CANBUSIntroduccinalossistemasdecomunicacindelvehculo.pdf	
+
+GIT
+
+http://es.wikipedia.org/wiki/Git
+
+tutorial GIT
+https://www.youtube.com/watch?v=qEvnwW-YtRw&list=PLdSZZIe44ae3dNUNobDVgzD2clx-brUEX
+
+me quede en el penultimo video 
+
+
+
+arduino DUE CAN examples
+
+https://github.com/collin80/due_can 
+
+multiplexado de redes can bus
+
+https://www.youtube.com/watch?v=eShwq2V2YoU
+
+bits de identificacion 
+http://www.arcan.es/?m=200812
+
+arduino y can 
+http://www.arcan.es/
+
+
+
+
+
+
+
+
+
