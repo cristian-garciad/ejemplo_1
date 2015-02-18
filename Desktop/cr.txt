@@ -25,10 +25,9 @@ http://www.arcan.es/?m=200812
 
 arduino y can 
 http://www.arcan.es/
-
-
+----
 agregado para ver actualicaciones 
-
+------
 
 
 
