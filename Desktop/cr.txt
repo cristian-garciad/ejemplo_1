@@ -12,8 +12,6 @@ https://www.youtube.com/watch?v=qEvnwW-YtRw&list=PLdSZZIe44ae3dNUNobDVgzD2clx-br
 
 me quede en el penultimo video 
 
-
-
 arduino DUE CAN examples
 
 https://github.com/collin80/due_can 
